@@ -1,0 +1,1 @@
+# Welcome to my Python projects repository where you will be exposed a varierty of different Projects from Astrology readings using Pyaztro to Google text to Speech(gtts) enabled program that open websites to finding countries and states on google maps.
